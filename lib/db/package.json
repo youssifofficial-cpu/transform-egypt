@@ -1,0 +1,10 @@
+{
+  "name": "@workspace/db",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./src/index.ts",
+  "exports": { ".": "./src/index.ts" },
+  "scripts": { "push": "drizzle-kit push", "typecheck": "tsc --noEmit" },
+  "dependencies": { "drizzle-orm": "catalog:", "postgres": "^3.4.5" },
+  "devDependencies": { "@types/node": "catalog:", "drizzle-kit": "^0.31.0", "typescript": "~5.9.2" }
+}
