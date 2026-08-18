@@ -114,6 +114,62 @@ legitimate escalation.
 
 ---
 
+## Appeal templates & verification checklist
+
+Meta retired the old public web appeal form; the **in-app appeal is the only
+official route**, and real follow-ups come from **security@mail.instagram.com**.
+Make the one appeal you send count.
+
+### Before you submit — align the basics
+
+- **Match the profile name to the ID.** If the name on the Instagram profile
+  differs from the **last name on your government ID**, the automated check can
+  auto-reject. Set the profile name to match the ID before appealing. (This tip
+  is legitimate; the scam version is anyone asking you to send the ID *to them*.)
+- **Update the app** to the latest version.
+- **Use your normal device and network. Turn any VPN off** — VPNs can trip the
+  integrity system that flagged you.
+
+### Appeal statement — English (paste into the reason field)
+
+> I am the real, sole owner of this account and I use it under my true identity.
+> My identity document is an **official Egyptian national ID issued in Arabic**.
+> The automated system appears to be failing to read the Arabic text on my ID,
+> which I believe caused this suspension for "account integrity". I am a genuine
+> person, not automated or inauthentic. Please route this to a **human reviewer**
+> who can read an Arabic government ID. I can complete a video selfie and submit
+> clear photos of my official ID on request. Thank you for re-reviewing.
+
+### Appeal statement — Arabic
+
+> أنا المالك الحقيقي والوحيد لهذا الحساب وأستخدمه بهويتي الشخصية الصحيحة. وثيقة
+> هويتي هي **بطاقة رقم قومي مصرية رسمية صادرة باللغة العربية**. يبدو أن النظام
+> الآلي يفشل في قراءة النص العربي في بطاقتي، وأعتقد أن ذلك هو سبب إيقاف الحساب
+> بدعوى "سلامة الحساب". أنا شخص حقيقي ولست حسابًا آليًا أو مزيفًا. برجاء تحويل
+> الطلب إلى **مُراجِع بشري** قادر على قراءة بطاقة هوية حكومية باللغة العربية.
+> يمكنني تسجيل فيديو سيلفي وتقديم صور واضحة لبطاقتي الرسمية عند الطلب. شكرًا
+> لإعادة المراجعة.
+
+### ID photo checklist (upload only inside the app's own flow)
+
+- Original physical ID — not a photo of a screen or a photocopy.
+- All **four corners** visible, flat, filling most of the frame.
+- **Good, even light; no glare**; dark, solid background.
+- In sharp focus; every character readable.
+
+### Video-selfie checklist
+
+- Bright, even lighting; face centered and unobstructed.
+- Remove hat/sunglasses; plain background.
+- Follow the head-turn / movement prompts exactly.
+
+### After you submit
+
+- Screenshot the "under review" confirmation.
+- Watch email from **security@mail.instagram.com** for the next step; ignore any
+  "support" that arrives via DM/Messenger/WhatsApp.
+- Wait for the decision (often ~9 days). Don't spam new appeals.
+
 ## If you already engaged with the "support" agents
 
 Damage control, in order:
@@ -165,6 +221,7 @@ Damage control, in order:
 
 - Instagram Help Center — `https://help.instagram.com`
 - "I can't access my account" — `https://www.instagram.com/hacked`
+- Meta Account Recovery Hub — `https://www.meta.com/account-recovery-support/`
 - Meta Business Help Center — `https://www.facebook.com/business/help`
 - Meta Accounts Center — `https://accountscenter.instagram.com`
 - Oversight Board — `https://www.oversightboard.com`
