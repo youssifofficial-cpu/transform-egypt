@@ -22,6 +22,49 @@
 
 ---
 
+## 🚨 Remote-access apps (AnyDesk / TeamViewer) — remove them now
+
+If anyone helping you "recover" the account told you to install **AnyDesk**,
+**TeamViewer**, or any screen-share / remote-control app: that is a scam, full
+stop. Real Meta support never needs remote control of your device. While it is
+installed, they can see your passwords, one-time codes, and banking apps live.
+
+1. **Delete the remote-access app immediately.**
+2. From a **separate, clean device**, change your **email password** and enable
+   2FA on the email itself (whoever controls the email controls recovery).
+3. Change passwords on any sensitive app (especially **banking**) opened while it
+   was installed, and check accounts for activity you did not make.
+
+## Don't file a false "my account was hacked" report
+
+Some "helpers" (including AI chat assistants) will coach you to use
+`instagram.com/hacked` → "Someone changed my email address" and claim the account
+**was hacked**, even when it wasn't. If Instagram's own notice says the account
+was **disabled for account integrity** (a policy decision), then:
+
+- It was **not** a hack — saying so is a misrepresentation that **contradicts
+  Instagram's own record** and weakens your case.
+- The correct route is the **in-app appeal / "Disagree with decision"**, where you
+  state the **truth**.
+
+Tell the truth in the appeal. It is both the right thing and the thing most
+likely to actually work.
+
+## "Account integrity — bypassing actions by creating new accounts" (ban evasion)
+
+This specific reason means Instagram believes the account is linked to **another
+account that was restricted**, and that one was used to evade a limit on the
+other. Two honest situations:
+
+- **False flag** (you only ever had this one account; the system wrongly linked
+  you — shared WiFi, a family device, a reused phone number can all cause this).
+  Appeal truthfully: state you have only ever operated this one account and did
+  not create accounts to evade any action, and ask for human re-review.
+- **There really was another restricted account.** This is the hardest category
+  to reverse; appeals are often denied. Creating **more** new accounts will get
+  those banned too. The only honest path is one truthful appeal and patience —
+  no paid "agent", "bypass", or "override" can change a ban-evasion decision.
+
 ## How to tell the real process from the scam
 
 Real Meta support and fake "support" look different in specific ways.
