@@ -1,0 +1,179 @@
+# Instagram / Meta Account Recovery — Safe Guide
+
+> Written for the TransforM Egypt team. If an Instagram account (personal or the
+> business account) has been suspended or disabled, follow this guide. It sticks
+> to **Meta's official, free channels only** and flags the scams that target
+> exactly this situation.
+
+---
+
+## Bottom line first
+
+1. **The only legitimate way to appeal is inside the Instagram app / official
+   Help Center.** It is always **free**.
+2. **Anyone in DMs, Messenger, or comments offering to "recover", "unlock", or
+   "bypass" your account is a scammer** — including accounts that call themselves
+   "Meta Pro Team", "Official Meta Support", or use agent names like "Alessio".
+   Meta does not do account recovery through chat agents.
+3. **Never give anyone your password, your login/2FA code, or your ID photo**
+   outside the official in-app flow. Never pay anyone.
+4. If your in-app appeal window is still open (the suspension notice shows a
+   deadline), **act on it now through the app** — that is your best real chance.
+
+---
+
+## How to tell the real process from the scam
+
+Real Meta support and fake "support" look different in specific ways.
+
+| Signal | Real Meta process | Scam |
+| --- | --- | --- |
+| Where it happens | Inside the Instagram app or `help.instagram.com` | DMs, Messenger, WhatsApp, comments, random websites |
+| Who contacts whom | **You** start the appeal in the app | **They** message you, often first |
+| Named "agents" | No personal agents assigned to your case in chat | "Alessio", "Pro Team", "your specialist…" |
+| Language | Plain policy language | "elite bypass protocol", "titanium firewall", "cannot be overridden" |
+| Case / reference IDs in chat | Not how appeals work | Impressive-looking numbers to feel official |
+| Asks for money / gift cards / crypto | Never | Common |
+| Asks for password or 2FA code | Never | Always eventually |
+| ID verification | Done **inside the app's own flow**, never by sending a photo to a person | "Send your ID here" / "upload to this link" |
+
+**Rule of thumb:** if the "help" arrives in a chat window and involves a person,
+a payment, a link, or a request to send your ID or code — it is a scam, no matter
+how official the badge, name, or wording looks. The blue checkmark on a chat
+account does **not** make it Meta.
+
+### About the "titanium firewall / elite bypass / cannot be overridden" messages
+
+That is scripted scam language. There is no secret internal team that can
+"override" a suspension for you, and no legitimate reason anyone would need to
+"bypass" Meta's systems on your behalf. These messages are designed to (a) sound
+insider-official, and (b) keep you engaged and paying/sharing. Disengage.
+
+### About the "Account suspended — take action or lose access" email
+
+Meta does send real suspension emails, and scammers copy that exact look. So the
+safe habit is the same either way:
+
+- **Do not tap the button/link in the email.**
+- Instead, **open the Instagram app directly** (or type `instagram.com` yourself)
+  and log in. If the suspension and appeal option are real, you will see the same
+  notice there and can appeal from inside the app.
+- Real Instagram security mail comes from a Meta/Instagram domain, and you can
+  cross-check recent security emails at
+  **Settings → Accounts Center → Password and security → Recent emails**. If the
+  email you received is not listed there, treat it as phishing.
+
+---
+
+## The legitimate recovery steps
+
+### 1. Appeal from inside the app (do this first)
+
+1. Open Instagram and try to **log in** to the suspended account.
+2. You should see a **suspended / disabled** notice, usually with a deadline.
+3. Tap **"Disagree with decision"** (or "Get help" / "Learn more").
+4. Follow the on-screen identity check **inside the app** — this may be a
+   **video selfie** or a **government ID** step. This is the *only* place it is
+   safe to verify your identity. You are uploading to Instagram's own flow, not
+   sending anything to a person.
+5. Submit and wait. Decisions commonly take around a week (reports cluster
+   around ~9 days). You will be notified in-app / by email from Meta.
+
+> Egyptian national ID note: if the automated check struggles to read an
+> Arabic-only ID, that is a known friction point. Use the ID step **in the app**,
+> take a clear, glare-free photo with all four corners visible, and if there is a
+> free-text reason field, state plainly that it is an official Egyptian
+> government ID in Arabic. Do **not** send your ID to any chat agent — that
+> advice, when it comes from a DM "support" account, is how ID theft happens.
+
+### 2. Don't over-appeal
+
+- Submitting many appeals back-to-back **hurts** you.
+- Send at most **2–3**, each with **new information**, and wait **~7 days**
+  between them. Creating brand-new support tickets repeatedly can reset your
+  place in the queue.
+
+### 3. Business account? Use Meta Business Support
+
+If the account is a **business/professional** account (e.g. connected to ad
+spend or a Facebook Page), you also have the **Meta Business Help Center**:
+
+- Go to **business.facebook.com** → **Help** / **Business Support Home** while
+  logged in to the associated business account.
+- From a **desktop browser**, not just the phone — the business support surface
+  is more complete there.
+- This is still an **official, free** channel. It is different from a random
+  person messaging you claiming to be "Business Support".
+
+### 4. Last resort: the Oversight Board
+
+For content/account-integrity decisions that you believe are wrong and that Meta
+won't reverse, the independent **Oversight Board** (`oversightboard.com`) can be
+petitioned. It is free and only handles a small number of cases, but it is a
+legitimate escalation.
+
+---
+
+## If you already engaged with the "support" agents
+
+Damage control, in order:
+
+1. **Stop replying** to the "Pro Team" / "Alessio" / "Official Meta Support"
+   chats. Do not send more ID, money, or codes.
+2. **If you shared your password anywhere**, change it immediately on every
+   account that used it, and turn on **two-factor authentication** (use an
+   authenticator app, not SMS if possible).
+3. **If you shared a login/2FA code**, assume they tried to log in. Go to
+   **Accounts Center → Password and security → Where you're logged in** and
+   remove unknown sessions; reset the password.
+4. **If you paid**, contact your bank/card issuer to dispute the charge. Gift
+   cards and crypto are usually unrecoverable — report it anyway (see below).
+5. **If you shared your ID photo**, be alert for identity-fraud attempts; in
+   Egypt you can report ID misuse to the anti-cybercrime authorities.
+6. **Report the scam accounts** inside Instagram/Messenger (Report → Scam/Fraud).
+
+---
+
+## Protect the TransforM Egypt business while this is ongoing
+
+- Make sure the **business account @transformegypt** has:
+  - a **strong, unique password** (not shared with the suspended account),
+  - **two-factor authentication** on,
+  - **more than one admin** so the business is never locked out of its own page
+    if one person's account is affected.
+- Keep customers reachable through the channels you already control and that are
+  in this project: the **website**, **WhatsApp (wa.me/201009780008)**, and the
+  **phone numbers**. Don't let a single suspended profile take the business
+  offline — the site is the asset you own outright.
+- Do **not** post the suspended account's private details (phone, email, ID,
+  case numbers) publicly while trying to get attention. Public "tag @Meta" posts
+  rarely help and expose you to more scammers who monitor those posts.
+
+---
+
+## Realistic expectations
+
+- Recovery is **possible but not guaranteed**. Legitimate appeals are sometimes
+  denied, and there is no paid shortcut that changes that.
+- The honest levers are: appeal **once, well, in-app**; verify ID **only in the
+  app**; wait; escalate through **Business Support** or the **Oversight Board**
+  if eligible. That's the whole real toolkit.
+
+---
+
+## Official, free channels (bookmark these)
+
+- Instagram Help Center — `https://help.instagram.com`
+- "I can't access my account" — `https://www.instagram.com/hacked`
+- Meta Business Help Center — `https://www.facebook.com/business/help`
+- Meta Accounts Center — `https://accountscenter.instagram.com`
+- Oversight Board — `https://www.oversightboard.com`
+
+## Sources
+
+- Bitdefender — Instagram account recovery scams to avoid
+- Gen Digital — Instagram support scams / 2FA phishing
+- Meta / Instagram Help Center — appeal a disabled account
+- Industry recovery guides (2026) on suspension appeal windows and timelines
+
+*This document is general safety guidance, not legal advice.*
