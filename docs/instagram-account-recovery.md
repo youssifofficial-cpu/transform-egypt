@@ -150,6 +150,21 @@ Make the one appeal you send count.
 > يمكنني تسجيل فيديو سيلفي وتقديم صور واضحة لبطاقتي الرسمية عند الطلب. شكرًا
 > لإعادة المراجعة.
 
+### If the automated ID check keeps rejecting your ID — use your PASSPORT
+
+If you keep getting "your photo ID submission could not be accepted", the most
+likely cause is that the automated reader **cannot parse an Arabic-only national
+ID**. Instagram's own rejection email lists the documents it accepts — **passport,
+birth certificate, or other official ID**. A **passport is the best choice**:
+
+- The name is printed in **Latin script**, so the automated reader can match it.
+- It has a standardized **machine-readable zone** designed to be scanned.
+- It is internationally recognized, so it rarely gets kicked back.
+
+So: re-do the review and upload the **passport photo page** instead of the
+national ID. Make sure the **name on your Instagram profile matches the passport**
+(Latin spelling). This one change fixes most "can't read my Arabic ID" loops.
+
 ### ID photo checklist (upload only inside the app's own flow)
 
 - Original physical ID — not a photo of a screen or a photocopy.
@@ -189,6 +204,22 @@ Damage control, in order:
 6. **Report the scam accounts** inside Instagram/Messenger (Report → Scam/Fraud).
 
 ---
+
+## The moment you regain access — lock it down (10 minutes)
+
+A high-value creator/professional account (large following, ad/creator history)
+is a prime re-target. As soon as you can log in:
+
+1. **Change the password** to something long and unique (not reused anywhere).
+2. **Turn on two-factor authentication** — use an **authenticator app**, not SMS.
+3. **Check "Where you're logged in"** (Accounts Center → Password and security)
+   and **log out every session you don't recognize.**
+4. **Verify your email + phone** on the account are yours and current, and check
+   **"Recent emails"** for any changes you didn't make.
+5. **Finish any pending ID review** so the integrity flag is fully cleared and
+   the account can't be re-suspended for the same open case.
+6. Keep the **login email secure too** (strong password + 2FA on the email
+   itself) — whoever controls the email controls the account.
 
 ## Protect the TransforM Egypt business while this is ongoing
 
