@@ -65,6 +65,41 @@ other. Two honest situations:
   those banned too. The only honest path is one truthful appeal and patience —
   no paid "agent", "bypass", or "override" can change a ban-evasion decision.
 
+### Ban-evasion false-flag appeal template
+
+Adapt every bracket to your true facts — never submit anything untrue:
+
+> I have owned and operated this account continuously since [year], under my
+> real identity, and I have never created any account to avoid a restriction.
+> [If you have a second account: My other account, @[handle], is a longstanding
+> [business/creative] page created on [date], well before this suspension — it
+> is not a replacement or evasion account.] I believe the "bypassing actions by
+> creating new accounts" finding is a false match. [If applicable: Around the
+> time of the suspension I was targeted by scammers posing as Meta support, and
+> a remote-access app was briefly installed on my phone; I have since removed it
+> and secured my devices and email — activity from that period was not mine.]
+> Please have a human review my case. I can verify my identity with my passport
+> and a video selfie.
+
+Two facts decide how to fill this in — establish them honestly first:
+
+1. **Does every other account you hold predate the suspension?** An old second
+   account (a business page, a styling page) created long before is a normal
+   thing to disclose. An account created **after** the suspension is exactly
+   what the policy prohibits — if that happened, stop using it; do not claim it
+   doesn't exist.
+2. **Could someone else have created accounts from your devices or logins**
+   (remote-access scammers, shared phone/WiFi)? If genuinely possible, say so —
+   it is relevant, true context, not an excuse invented for the appeal.
+
+### Keep a copy of your data ("Download Your Information")
+
+If the disabled-account flow still lets you request **Download Your Information**
+(accountscenter → Your information and permissions), do it: the archive is proof
+of ownership and a full backup of your content. The download link it emails you
+contains an **auth token — treat it like a password**: never paste it into chats
+or send it to anyone, "support" included.
+
 ## How to tell the real process from the scam
 
 Real Meta support and fake "support" look different in specific ways.
