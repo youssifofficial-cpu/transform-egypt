@@ -98,7 +98,33 @@ If the disabled-account flow still lets you request **Download Your Information*
 (accountscenter → Your information and permissions), do it: the archive is proof
 of ownership and a full backup of your content. The download link it emails you
 contains an **auth token — treat it like a password**: never paste it into chats
-or send it to anyone, "support" included.
+or send it to anyone, "support" included. Links expire in ~4 days — download the
+ZIP promptly and store it privately.
+
+### What the data export can and can't tell you
+
+The export does **not** contain Meta's moderation reason — there is no file that
+says why the account was actioned. Anyone asking you to send the export "to find
+the reason" is fishing for your data. The real disclosure surface is
+**Account Status** (Settings → Account Status, or `instagram.com/account_status`):
+that is where Meta lists removed content, strikes, and the policy behind each.
+
+The export IS still worth a self-audit — open the ZIP and look at:
+
+- **`security_and_login/`** (login_activity, logout_activity, password changes,
+  privacy changes) — logins from countries/devices you don't recognize point to
+  compromise, a legitimate false-flag cause worth citing in an appeal.
+- **`personal_information/…/profile_changes`** — rapid name/username changes can
+  trip integrity systems; confirm nothing changed that you didn't do.
+- **`your_instagram_activity/messages` & `comments`** — bursts you didn't send
+  would indicate the account was used for spam while compromised.
+- **`ads_information/` & `apps_and_websites_off_of_instagram/`** — third parties
+  with access; revoke anything unfamiliar once you're back in.
+- **`account_information`** — registration date (your proof of "since 2017") and
+  the linked email/phone.
+
+If everything there looks normal and yours, that supports the "wrongly flagged"
+case — which is exactly what the escalation letter should say.
 
 ## How to tell the real process from the scam
 
