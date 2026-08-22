@@ -169,7 +169,30 @@ safe habit is the same either way:
 > government ID in Arabic. Do **not** send your ID to any chat agent — that
 > advice, when it comes from a DM "support" account, is how ID theft happens.
 
-### 2. Don't over-appeal
+### If the app shows NO appeal / "Disagree" button
+
+The button often disappears after the first automated review returns negative.
+That does not mean the window is closed while your stated deadline is still in
+the future. Work through these in order:
+
+1. **The genuine suspension email's "Review details" button.** Verify the sender
+   is exactly `no-reply@mail.instagram.com`, confirm the button opens
+   `instagram.com`, then use it — it deep-links into the appeal flow tied to your
+   deadline and can work when the app shows nothing. (The "don't tap email links"
+   rule is for *unverified* mail; this one is verified.)
+2. **Desktop browser + another device.** Log in at `instagram.com` on a
+   PC/laptop, and try a different phone. The review prompt sometimes appears
+   where the app hides it.
+3. **Log out fully and back in** on the app — the review step can re-appear after
+   a fresh login.
+4. **Help Center form** — from `help.instagram.com`, use the contact form that
+   matches "account disabled" (the old standalone web form was retired).
+
+If none of these surface any path and the deadline has passed, the account is
+likely permanently disabled and the in-app/email routes are exhausted — only
+Business Support escalation and prevention remain.
+
+### Don't over-appeal
 
 - Submitting many appeals back-to-back **hurts** you.
 - Send at most **2–3**, each with **new information**, and wait **~7 days**
