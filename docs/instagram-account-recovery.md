@@ -305,6 +305,36 @@ Send from your account email. Keep it factual and unemotional.
 > Reference ID (from prior support contact): [ID].  I can provide any further
 > verification needed. Thank you.
 
+### When the decision is final ("You cannot request another review")
+
+If the disabled screen says **"You cannot request another review of this
+decision"** and **"all your information will be permanently deleted"**, the
+standard in-app appeal path is **closed**. Be honest with yourself about this
+stage — most accounts here are not recovered. Act in this order:
+
+1. **Download your information NOW.** The page's own "download your information"
+   link is the priority — permanent deletion is coming and this is 9 years of
+   content plus your proof of ownership. Don't let it be lost chasing a recovery
+   that may not come.
+2. **This is peak scam danger.** "Permanent" is the exact word recovery
+   scammers weaponize ("permanent only sticks if no one important sees it",
+   "elite bypass", pay-to-restore). At this stage, desperation is the product
+   they sell. Pay no one. No agent, lawyer-for-hire "specialist", or Telegram
+   "insider" can reverse a finalized Meta decision.
+3. **The honest long shots** (free, low odds, worth one clean attempt each):
+   - A single **formal written complaint** to Meta framing this as a wrongful
+     automated action in the documented 2025–26 ban wave (template above).
+   - A **regulatory/consumer complaint** (your national authority; some also
+     file US FTC / California AG) — slow, creates a record.
+   - If you carry real public/press weight, documented public pressure has
+     reversed some wave cases. Do not post private data to do it.
+   Treat these as a lottery ticket, not a plan.
+4. **Move forward in parallel.** Protect and grow the assets you still own — the
+   business account, the website, WhatsApp, your customer list — and, if you
+   want a personal presence again, start a **new** account cleanly (new does not
+   mean evading; the old one is closed, not under an active restriction you'd be
+   dodging) and tell your audience where to find you.
+
 ### Keep expectations honest
 
 For account-integrity/ban-evasion decisions, even a perfect escalation may not
