@@ -1,0 +1,14 @@
+# Secrets and local state - never commit these
+config.ini
+*.session
+*.session-journal
+tg_session*
+
+# Downloaded videos
+downloads/
+*.part
+
+# Python
+.venv/
+__pycache__/
+*.pyc
