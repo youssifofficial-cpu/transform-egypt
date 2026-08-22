@@ -226,7 +226,66 @@ If you have **another active profile** (e.g. a Facebook profile linked to the
 same person/business), subscribing it to **Meta Verified** buys access to human
 account support. It is Meta's own product — the one *legitimate* way money buys
 support attention — and support there can sometimes review issues on connected
-accounts. No guarantee, but unlike every "recovery agent", it is real.
+accounts. Temper expectations: in 2026 Meta Verified has often returned canned
+responses on account-integrity cases. But unlike every "recovery agent", it is
+real.
+
+### 6. If appeals are auto-denied: escalate in writing
+
+Context that matters for your case: since mid-2025, Meta's automated systems have
+**wrongly suspended very large numbers of innocent accounts** (hundreds of
+thousands in some months). Meta has acknowledged errors, claimed a large error
+reduction, and **reversed many suspensions — often only after media pressure and
+formal, written complaints**, because in-app appeals frequently get an automated
+denial within minutes without a human ever looking.
+
+What has actually moved cases like a clean-history false flag:
+
+1. **A formal, respectful written appeal to Meta** (not the app button) that
+   documents account age, identity, and the specific error. A calm, factual
+   letter reaches attention the app flow does not. Template below.
+2. **A regulatory / consumer complaint** as added pressure — e.g. your national
+   data-protection or consumer-protection authority (in Egypt), and, since Meta
+   is US-based, some users also file with the **US FTC** and the **California
+   Attorney General**. Slow, but it creates a paper trail Meta responds to.
+3. **Documented public/press pressure** — the wrongful-ban wave got coverage
+   precisely because affected users spoke up with facts and case IDs.
+
+**What NOT to do:** do not buy "recovery guides" (Gumroad/eBooks), hire
+"recovery agents", or pay anyone promising reinstatement. They cannot do
+anything you can't do free, and most are scams riding the same wave.
+
+### Formal written-appeal / notice template
+
+Send from your account email. Keep it factual and unemotional.
+
+> To Meta Platforms — Instagram account review escalation
+>
+> Account: @[username]  •  Registered email: [email]  •  Account since: [year]
+>
+> My Instagram account was disabled on [date] under "account integrity —
+> creating new accounts to bypass actions". This is a mistake. I have operated
+> only this one account since [year], under my real identity as a professional
+> [role]. None of my accounts — this one, my other Instagram page, my Facebook
+> profile, or my Facebook Page — has ever been suspended or restricted, and I
+> created no account after this suspension. I believe I am one of the accounts
+> wrongly actioned by automated enforcement.
+>
+> My official identity document is an Egyptian national ID printed in Arabic,
+> which the automated ID check repeatedly failed to read; I have submitted my
+> passport (Latin script) for direct verification and can complete a video
+> selfie. I request a review of this decision by a human reviewer.
+>
+> Reference ID (from prior support contact): [ID].  I can provide any further
+> verification needed. Thank you.
+
+### Keep expectations honest
+
+For account-integrity/ban-evasion decisions, even a perfect escalation may not
+succeed, and it can take weeks. The steps above are the real, legitimate ceiling
+— there is no faster private channel and no "workaround". Pursue them in order,
+keep records, and in parallel protect what you own (see business-continuity
+below) so the business does not depend on one profile.
 
 ---
 
