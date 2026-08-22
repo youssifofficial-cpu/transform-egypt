@@ -102,30 +102,35 @@ or send it to anyone, "support" included.
 
 ## How to tell the real process from the scam
 
-Real Meta support and fake "support" look different in specific ways.
+Important nuance: **Meta does run real live-chat support.** The Meta Pro Team is
+a genuine program, and Business Support can open a real Messenger chat with
+"Official Meta Support" where a **named agent joins and gives you a reference
+ID**. Named agents and case IDs are therefore NOT scam signals by themselves.
+What separates real from fake is **who started the chat** and **what they ask
+for**:
 
-| Signal | Real Meta process | Scam |
+| Signal | Real Meta support | Scam |
 | --- | --- | --- |
-| Where it happens | Inside the Instagram app or `help.instagram.com` | DMs, Messenger, WhatsApp, comments, random websites |
-| Who contacts whom | **You** start the appeal in the app | **They** message you, often first |
-| Named "agents" | No personal agents assigned to your case in chat | "Alessio", "Pro Team", "your specialist…" |
-| Language | Plain policy language | "elite bypass protocol", "titanium firewall", "cannot be overridden" |
-| Case / reference IDs in chat | Not how appeals work | Impressive-looking numbers to feel official |
+| Who starts the chat | **You**, from the app's help flow or `business.facebook.com` → Business Support Home | **They** contact you first (DM, comment, WhatsApp, email link) |
+| Where it lives | A chat opened from inside official Meta surfaces | An unsolicited thread, however official it looks |
 | Asks for money / gift cards / crypto | Never | Common |
-| Asks for password or 2FA code | Never | Always eventually |
-| ID verification | Done **inside the app's own flow**, never by sending a photo to a person | "Send your ID here" / "upload to this link" |
+| Asks for your password or a login/2FA code | Never | Always eventually |
+| Asks you to install AnyDesk / TeamViewer / screen-share | Never | Classic move |
+| ID verification | Only **inside the app's own upload flow** | "Send your ID here" / "upload to this link" |
+| Promises a guaranteed unban or paid fast-track | Never | Always |
 
-**Rule of thumb:** if the "help" arrives in a chat window and involves a person,
-a payment, a link, or a request to send your ID or code — it is a scam, no matter
-how official the badge, name, or wording looks. The blue checkmark on a chat
-account does **not** make it Meta.
+**Rule of thumb:** a chat **you** opened from official Meta surfaces is real,
+named agent and all. Anyone who **contacts you first**, or asks for payment,
+codes, remote access, or your ID in-chat, is a scammer — regardless of badges.
+A blue checkmark on an account that DMed you first does **not** make it Meta.
 
-### About the "titanium firewall / elite bypass / cannot be overridden" messages
+### When real support says "finalized / cannot be overridden"
 
-That is scripted scam language. There is no secret internal team that can
-"override" a suspension for you, and no legitimate reason anyone would need to
-"bypass" Meta's systems on your behalf. These messages are designed to (a) sound
-insider-official, and (b) keep you engaged and paying/sharing. Disengage.
+Support agents genuinely cannot override account-integrity decisions — that is
+handled by a separate review system. If a real agent says the case is finalized,
+the chat channel is exhausted; the remaining levers are the in-app appeal window
+(while it lasts), a properly escalated Business Support ticket, and prevention.
+Anyone who then appears promising to "bypass" that finality is a scammer.
 
 ### About the "Account suspended — take action or lose access" email
 
@@ -183,12 +188,22 @@ spend or a Facebook Page), you also have the **Meta Business Help Center**:
 - This is still an **official, free** channel. It is different from a random
   person messaging you claiming to be "Business Support".
 
-### 4. Last resort: the Oversight Board
+### 4. The Oversight Board — know its real limits
 
-For content/account-integrity decisions that you believe are wrong and that Meta
-won't reverse, the independent **Oversight Board** (`oversightboard.com`) can be
-petitioned. It is free and only handles a small number of cases, but it is a
-legitimate escalation.
+The independent **Oversight Board** (`oversightboard.com`) is legitimate and
+free, but individual appeals mostly cover **content decisions**, and filing one
+requires an **active account you can log into** — so a fully disabled account
+usually cannot appeal there. (The Board has criticized Meta's account-disabling
+process and taken up the issue generally, but that is not an individual remedy.)
+Treat it as a long shot, not a plan.
+
+### 5. Meta Verified — a legitimate paid support channel
+
+If you have **another active profile** (e.g. a Facebook profile linked to the
+same person/business), subscribing it to **Meta Verified** buys access to human
+account support. It is Meta's own product — the one *legitimate* way money buys
+support attention — and support there can sometimes review issues on connected
+accounts. No guarantee, but unlike every "recovery agent", it is real.
 
 ---
 
